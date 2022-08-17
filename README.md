@@ -18,7 +18,7 @@ To start `PushOS`, type:
 ```
 $ pushos-start
 ```
-This will start VNC server and XFCE.
+This will start VNC server and XFCE. Connect to VNC server in any VNC Viewer. Address: `localhost:1`, password: `123456`.
 To stop, type:
 ```
 $ pushos-stop
